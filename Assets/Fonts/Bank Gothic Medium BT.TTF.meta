@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 81bd5255e00936942b783e3488d36664
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: BankGothic Md BT
+  fontNames:
+  - BankGothic Md BT
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 6cc20b5dc8e960240bbb855bd1a2cccc, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
